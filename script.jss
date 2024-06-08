@@ -1,6 +1,5 @@
 const display = document.querySelector('#display');
 const buttons = document.querySelectorAll('button');
-
 buttons.forEach((item) => {
     item.onclick = () => {
         if (item.id === 'clear') {
@@ -18,7 +17,6 @@ buttons.forEach((item) => {
         }
     }
 });
-
 const themeToggleBtn = document.querySelector('.theme-toggler');
 const calculator = document.querySelector('.calculator');
 const toggleIcon = document.querySelector('.toggler-icon');
