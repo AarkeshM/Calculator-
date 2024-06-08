@@ -19,7 +19,7 @@ h1{
     text-align: center;
     margin-top: 30px;
     font-size: 45px;
-    color: #0ebbda6;
+    color: #0ebbd6;
 }
 .container{
     margin-top: -25px;
@@ -120,13 +120,13 @@ button#equal{
 }
 /*dark theme*/
 .calculator.dark{
-    background-color: #071115;
+    background-color: #2a3235;
 }
 .calculator.dark#display{
     color: #fafafd;
 }
 .calculator.dark button#clear{
-    background-color: #0a1e23;
+    background-color: #0262d2f;
     color: #fc4552;
 }
 .calculator.dark button.btn-number{
