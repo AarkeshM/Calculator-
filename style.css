@@ -15,7 +15,14 @@ a*{
 body{
     background-image: linear-gradient(to bottom right,rgba(79,51,121,1),rgba(210,53,176));
 }
+h1{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 45px;
+    color: #0ebbda6;
+}
 .container{
+    margin-top: -25px;
     height: 100vh;
     width: 100vw;
     display: grid;
