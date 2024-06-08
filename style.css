@@ -100,7 +100,7 @@ button#equal{
     background-color: #fff;
 }
 .calculator #diplay{
-    color: #0a1e23;
+    color: #0ebbd6;
 }
 .calculator button#clear{
      background-color: #ffd5d8;
@@ -126,7 +126,7 @@ button#equal{
     color: #fafafd;
 }
 .calculator.dark button#clear{
-    background-color: #0262d2f;
+    background-color: #262d2f;
     color: #fc4552;
 }
 .calculator.dark button.btn-number{
